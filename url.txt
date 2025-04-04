@@ -1,0 +1,7 @@
+https://deno.com/
+https://fresh.deno.dev/
+https://www.typescriptlang.org/
+https://www.npmjs.com/
+https://www.mongodb.com/
+https://developer.mozilla.org/
+https://www.api-ninjas.com/api/
